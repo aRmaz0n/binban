@@ -1,0 +1,37 @@
+{
+  "fecha": "13/05/2023",
+  "mesas": [
+    {
+      "id": "04",
+      "mesero": "Nombre",
+      "pedido": [
+        {
+          "producto1": {
+            "precio": "5",
+            "cantidad": "5"
+          },
+          "producto2": {
+            "precio": "5",
+            "cantidad": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "mesero": "Nombre",
+      "pedido": [
+        {
+          "producto1": {
+            "precio": "5",
+            "cantidad": "5"
+          },
+          "producto2": {
+            "precio": "5",
+            "cantidad": "5"
+          }
+        }
+      ]
+    }
+  ]
+}
