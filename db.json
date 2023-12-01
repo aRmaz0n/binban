@@ -3,6 +3,7 @@
     {
       "id": "04",
       "mesero": "Nombre",
+      "estado": "abierto",
       "pedido": [
         {
           "producto1": {
@@ -19,6 +20,7 @@
     {
       "id": "05",
       "mesero": "Nombre",
+      "estado": "cerrado",
       "pedido": [
         {
           "producto1": {
